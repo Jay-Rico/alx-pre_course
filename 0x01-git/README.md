@@ -1,1 +1,1 @@
-Non empty read me
+It’s time to code!
